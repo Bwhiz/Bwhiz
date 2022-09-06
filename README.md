@@ -6,7 +6,7 @@ I am a **data scientist** / **Machine Learning Engineer** with a strong backgrou
 - My technical stacks includes:
   - Programming languages: Python 🐍, SQL 💻.
   - Data Analysis and Visualization tools: Ms. Power BI 📈, Ms. Excel.
-  - Cloud platforms: AWS ☁ (Sagemaker, Redshift, Athena)
+  - Cloud platforms: AWS ☁, IBM Db2.
   - Frameworks: Django Rest Framework (for building RESTful APIs) , Flask (for model deployment and testing), Tensorflow (AI development).
   - Hypothesis and A/B testing
   - Reporting and Presentation Packages: Ms. PowerPoint and Google slides
