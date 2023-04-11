@@ -13,8 +13,6 @@
 ![Flask](https://img.shields.io/badge/Flask--000000?style=flat&logo=Flask)
 ![Git](https://img.shields.io/badge/Git--000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub--000000?style=flat&logo=github&logoColor=FFFFFF)
-![Google Cloud Platform](https://img.shields.io/badge/GCP--000000?style=flat&logo=google)
-![Postgresql](https://img.shields.io/badge/PostgreSQL--000000?style=flat&logo=postgresql)
 ![Mongo DB](https://img.shields.io/badge/MongoDB--000000?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
