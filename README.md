@@ -16,3 +16,10 @@
 ![Mongo DB](https://img.shields.io/badge/MongoDB--000000?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
+### Let's Connect:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/benedict-ositadinma-ejelonu-367a6218a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benedict ejelonu" height="30" width="40" /></a>  
+<a href="https://twitter.com/benedictejelonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benedictejelonu" height="30" width="40" /></a>
+</p>
+
