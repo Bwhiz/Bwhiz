@@ -60,3 +60,5 @@
   <img src="https://komarev.com/ghpvc/?username=Bwhiz" alt="GitHub Stats">
 </p>
 -->
+
+[![An image of @bwhiz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bwhiz)](https://holopin.io/@bwhiz)
