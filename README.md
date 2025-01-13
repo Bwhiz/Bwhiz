@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/benedict-ositadinma-ejelonu-367a6218a">
-    <img src="https://image.similarpng.com/very-thumbnail/2021/01/Linkedin-icon-design-premium-vector-PNG.png" alt="LinkedIn" height="30">
+    <img src="https://w7.pngwing.com/pngs/887/616/png-transparent-linkedin-icon-linkedin-text-rectangle-logo-thumbnail.png" alt="LinkedIn" height="30">
   </a>
   &emsp;
   <a href="mailto:ejelonubenedict99@gmail.com">
