@@ -61,4 +61,4 @@
 </p>
 -->
 
-[![An image of @bwhiz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bwhiz)](https://holopin.io/@bwhiz)
+<!-- [![An image of @bwhiz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bwhiz)](https://holopin.io/@bwhiz) -->
